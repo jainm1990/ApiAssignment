@@ -1,4 +1,4 @@
-# Imgur Image Uploader REST API
+# User Application to Register, login and Upload, View and Delete Images REST API
 
 To start this service, execute the below command:
 
